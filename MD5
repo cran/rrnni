@@ -1,4 +1,4 @@
-415aa47706e863010f9a359db696d7c4 *DESCRIPTION
+d1bab0c7e3694db077cc2fcdf4dfa16b *DESCRIPTION
 fb78f49d2c09621db87e286bde564197 *NAMESPACE
 860e7617c9137a91aea69b7f48324afa *R/as_ranked.r
 080ade073938718d04a5c55b9b3e257c *R/common_tips.r
@@ -8,12 +8,12 @@ b10fee10f334ddd47d4663bd329ce195 *R/random_tree.r
 8fbcaab6bfc77602911e7e615ae22587 *R/read_newick.r
 09142e5a2dbb68ec99bdba18b28cebe1 *R/rmv.r
 0aab99b60ad0fac35e856173b9e50fda *R/rnni.r
-db436877c3ac05a96f133f764f0b4687 *R/rrnni.r
+a360e568e83e799d4c6758712c214ebf *R/rrnni.r
 e00f7bc2ad3ca2dab4676f1c217ee483 *R/sort_tips.r
 56e4d2b4046285d2a3cf4cf81dd11f97 *R/tips.r
 6a9cad2dd72a1a46cd8d7356b75f71cf *R/validate_rankedPhylo.r
-9517b17dc61fddd72dbbc5e83919f913 *README.md
-0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
+d1e8254d6ae345e3d8581e12cee0863b *README.md
+83813952f0803cdd73c5669b44095aec *build/partial.rdb
 d89f25ebe13ca9d992edf86523ea7bf2 *man/as_ranked.Rd
 4611fb8b5af91bd10e7cdc520dfbbb1d *man/common_tips.Rd
 49467ec9fcf80289b0f41db18174f063 *man/figures/ernRNNI.svg
@@ -23,7 +23,7 @@ d89f25ebe13ca9d992edf86523ea7bf2 *man/as_ranked.Rd
 af7f7681edf3a1979c05cf77fc4820e4 *man/read_newick.Rd
 f249c60fc6c58b4986d08115d1096be1 *man/rmv.Rd
 ba71877e02cb8f2a6c4dfd52eed37289 *man/rnni.Rd
-6f6edd85f4b83bb6eed37e4cdd86f6e4 *man/rrnni.Rd
+8d7fd724963069529d1a7b2076114ea6 *man/rrnni-package.Rd
 05c3b34aaba7786acf062c39280f66b9 *man/sort_tips.Rd
 5814214e2f75dbf6a1cc1a7f9c71dcbc *man/tips.Rd
 4de7230b1a27c540d0aa6311a40de544 *man/validate_rankedPhylo.Rd
